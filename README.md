@@ -1,6 +1,6 @@
-# Green Lantern Portable
+# Green Lantern: Rise of the Manhunters — Portable
 
-Launcher portátil para Windows x64 que extrai uma imagem ISO fornecida pelo usuário e inicia a versão recompilada do jogo.
+Launcher portátil para Windows x64 que extrai uma imagem ISO fornecida pelo usuário e inicia a versão recompilada de Green Lantern: Rise of the Manhunters.
 
 ## Download
 
@@ -9,7 +9,7 @@ O pacote portátil completo está em [Green-Lantern-portatil-pessoal-20261014.ra
 ## Requisitos e uso
 
 - Windows x64 com GPU compatível com DirectX 12.
-- Uma cópia própria e uma ISO compatível de Green Lantern para Xbox 360. A ISO não está incluída.
+- Uma cópia própria e uma ISO compatível de Green Lantern: Rise of the Manhunters para Xbox 360. A ISO não está incluída.
 - Extraia o RAR e execute `Iniciar Green Lantern.cmd`.
 - Na primeira execução, selecione a ISO. Os arquivos extraídos ficam em `game` ao lado do launcher; nas próximas execuções, abra o mesmo `.cmd`.
 
