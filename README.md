@@ -19,4 +19,4 @@ ISOs criptografadas ou incompatíveis podem falhar. Consulte os logs criados pel
 
 O extrator adaptado de 360tools está sob MIT; veja `tools/LICENSE-360tools-MIT.txt`. A licença do Python está dentro do pacote, em `tools/python/LICENSE.txt`. Os runtimes Microsoft são distribuídos conforme os termos da Microsoft, indicados no `LEIA-ME.txt` do pacote. As dependências ReXGlue permanecem sujeitas aos termos aplicáveis.
 
-Projeto de fã, sem afiliação com Warner Bros., DC ou os titulares de Green Lantern. Green Lantern e seus elementos pertencem aos respectivos titulares. O pacote não inclui arquivos de jogo nem remove criptografia de imagens.
+Leia [Avisos legais e condições de uso](./LEGAL.md) para informações sobre direitos, marcas, redistribuição e uso. Projeto de fã, sem afiliação com Warner Bros., DC ou os titulares de Green Lantern. Green Lantern e seus elementos pertencem aos respectivos titulares. O pacote não inclui arquivos de jogo nem remove criptografia de imagens.
