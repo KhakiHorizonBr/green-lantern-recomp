@@ -1,0 +1,6 @@
+*.iso
+*.ISO
+/game/
+/game-*/
+/logs/
+*.log
